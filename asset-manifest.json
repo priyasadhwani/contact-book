@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/priyasadhwani/contact-book.git/static/css/main.5d6b07b6.chunk.css",
+    "main.js": "/priyasadhwani/contact-book.git/static/js/main.ff0ad723.chunk.js",
+    "main.js.map": "/priyasadhwani/contact-book.git/static/js/main.ff0ad723.chunk.js.map",
+    "runtime-main.js": "/priyasadhwani/contact-book.git/static/js/runtime-main.54ffd7ea.js",
+    "runtime-main.js.map": "/priyasadhwani/contact-book.git/static/js/runtime-main.54ffd7ea.js.map",
+    "static/js/2.644ef2d2.chunk.js": "/priyasadhwani/contact-book.git/static/js/2.644ef2d2.chunk.js",
+    "static/js/2.644ef2d2.chunk.js.map": "/priyasadhwani/contact-book.git/static/js/2.644ef2d2.chunk.js.map",
+    "index.html": "/priyasadhwani/contact-book.git/index.html",
+    "precache-manifest.e9864979c4d0fbf3a3d25a84646374a9.js": "/priyasadhwani/contact-book.git/precache-manifest.e9864979c4d0fbf3a3d25a84646374a9.js",
+    "service-worker.js": "/priyasadhwani/contact-book.git/service-worker.js",
+    "static/css/main.5d6b07b6.chunk.css.map": "/priyasadhwani/contact-book.git/static/css/main.5d6b07b6.chunk.css.map",
+    "static/js/2.644ef2d2.chunk.js.LICENSE.txt": "/priyasadhwani/contact-book.git/static/js/2.644ef2d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54ffd7ea.js",
+    "static/js/2.644ef2d2.chunk.js",
+    "static/css/main.5d6b07b6.chunk.css",
+    "static/js/main.ff0ad723.chunk.js"
+  ]
+}
