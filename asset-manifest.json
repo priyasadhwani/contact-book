@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/priyasadhwani/contact-book.git/static/css/main.5d6b07b6.chunk.css",
-    "main.js": "/priyasadhwani/contact-book.git/static/js/main.ff0ad723.chunk.js",
-    "main.js.map": "/priyasadhwani/contact-book.git/static/js/main.ff0ad723.chunk.js.map",
-    "runtime-main.js": "/priyasadhwani/contact-book.git/static/js/runtime-main.54ffd7ea.js",
-    "runtime-main.js.map": "/priyasadhwani/contact-book.git/static/js/runtime-main.54ffd7ea.js.map",
-    "static/js/2.644ef2d2.chunk.js": "/priyasadhwani/contact-book.git/static/js/2.644ef2d2.chunk.js",
-    "static/js/2.644ef2d2.chunk.js.map": "/priyasadhwani/contact-book.git/static/js/2.644ef2d2.chunk.js.map",
-    "index.html": "/priyasadhwani/contact-book.git/index.html",
-    "precache-manifest.e9864979c4d0fbf3a3d25a84646374a9.js": "/priyasadhwani/contact-book.git/precache-manifest.e9864979c4d0fbf3a3d25a84646374a9.js",
-    "service-worker.js": "/priyasadhwani/contact-book.git/service-worker.js",
-    "static/css/main.5d6b07b6.chunk.css.map": "/priyasadhwani/contact-book.git/static/css/main.5d6b07b6.chunk.css.map",
-    "static/js/2.644ef2d2.chunk.js.LICENSE.txt": "/priyasadhwani/contact-book.git/static/js/2.644ef2d2.chunk.js.LICENSE.txt"
+    "main.css": "/contact-book/static/css/main.5d6b07b6.chunk.css",
+    "main.js": "/contact-book/static/js/main.88e2a577.chunk.js",
+    "main.js.map": "/contact-book/static/js/main.88e2a577.chunk.js.map",
+    "runtime-main.js": "/contact-book/static/js/runtime-main.96b648b8.js",
+    "runtime-main.js.map": "/contact-book/static/js/runtime-main.96b648b8.js.map",
+    "static/js/2.644ef2d2.chunk.js": "/contact-book/static/js/2.644ef2d2.chunk.js",
+    "static/js/2.644ef2d2.chunk.js.map": "/contact-book/static/js/2.644ef2d2.chunk.js.map",
+    "index.html": "/contact-book/index.html",
+    "precache-manifest.c50207ab69e97ceb95d5309e1cde6a88.js": "/contact-book/precache-manifest.c50207ab69e97ceb95d5309e1cde6a88.js",
+    "service-worker.js": "/contact-book/service-worker.js",
+    "static/css/main.5d6b07b6.chunk.css.map": "/contact-book/static/css/main.5d6b07b6.chunk.css.map",
+    "static/js/2.644ef2d2.chunk.js.LICENSE.txt": "/contact-book/static/js/2.644ef2d2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.54ffd7ea.js",
+    "static/js/runtime-main.96b648b8.js",
     "static/js/2.644ef2d2.chunk.js",
     "static/css/main.5d6b07b6.chunk.css",
-    "static/js/main.ff0ad723.chunk.js"
+    "static/js/main.88e2a577.chunk.js"
   ]
 }
